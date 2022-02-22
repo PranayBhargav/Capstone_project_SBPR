@@ -2,3 +2,4 @@ stopwords
 wordnet
 punkt
 averaged_perceptron_tagger
+snowball_data
